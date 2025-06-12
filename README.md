@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **to improve my skills in app development!"**
 
-- 👨‍💻 All of my projects are available at [[[https://github.com/victorcn2006](https://github.com/victorcn2006)]](https://victorcn2006.github.io/mi-portfolio/HTML/projects.html)
+- 👨‍💻 All of my projects are available at (https://victorcn2006.github.io/mi-portfolio/HTML/projects.html)
 
 - 📝 This is my portfolio where you I upload my workspace [[My Github Portfolio](my Github Portfolio about IT)](https://victorcn2006.github.io/mi-portfolio/index.html)
 
