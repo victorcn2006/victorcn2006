@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Víctor Carrillo Navarro</h1>
-<h3 align="center">"Game & App Dev | Code, Create, Innovate"</h3>
+<h3 align="center">"Game & Full Stack Dev | Code, Create, Innovate"</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victorcn2006" alt="victorcn2006" /></a> </p>
 
 - 🔭 I’m currently working on [KnightAfterShadows](https://github.com/victorcn2006/KnightAfterShadows)
+- 🔭 I’m currently working on [KnightAfterShadows](https://github.com/victorcn2006/KnightAfterShadows)
 
-- 🌱 I’m currently learning **Unity, C#, Java and MySQL**
+- 🌱 I’m currently learning **Unity, C#, Java, MySQL, React and Node**
 
-- 👯 I’m looking to collaborate on **game and app projects!"**
+- 👯 I’m looking to collaborate on **game and app/web projects!"**
 
-- 🤝 I’m looking for help with **to improve my skills in app development!"**
+- 🤝 I’m looking for help with **to improve my skills in app or web development!"**
 
 - 👨‍💻 All of my projects are available at (https://victorcn2006.github.io/mi-portfolio/HTML/projects.html)
 
